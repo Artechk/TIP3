@@ -1,0 +1,16 @@
+C:\Users\Artechk\source\repos\TIP3\TIP3\bin\Debug\net8.0-windows\TIP3.exe
+C:\Users\Artechk\source\repos\TIP3\TIP3\bin\Debug\net8.0-windows\TIP3.deps.json
+C:\Users\Artechk\source\repos\TIP3\TIP3\bin\Debug\net8.0-windows\TIP3.runtimeconfig.json
+C:\Users\Artechk\source\repos\TIP3\TIP3\bin\Debug\net8.0-windows\TIP3.dll
+C:\Users\Artechk\source\repos\TIP3\TIP3\bin\Debug\net8.0-windows\TIP3.pdb
+C:\Users\Artechk\source\repos\TIP3\TIP3\obj\Debug\net8.0-windows\TIP3.MainForm.resources
+C:\Users\Artechk\source\repos\TIP3\TIP3\obj\Debug\net8.0-windows\TIP3.csproj.GenerateResource.cache
+C:\Users\Artechk\source\repos\TIP3\TIP3\obj\Debug\net8.0-windows\TIP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artechk\source\repos\TIP3\TIP3\obj\Debug\net8.0-windows\TIP3.AssemblyInfoInputs.cache
+C:\Users\Artechk\source\repos\TIP3\TIP3\obj\Debug\net8.0-windows\TIP3.AssemblyInfo.cs
+C:\Users\Artechk\source\repos\TIP3\TIP3\obj\Debug\net8.0-windows\TIP3.csproj.CoreCompileInputs.cache
+C:\Users\Artechk\source\repos\TIP3\TIP3\obj\Debug\net8.0-windows\TIP3.dll
+C:\Users\Artechk\source\repos\TIP3\TIP3\obj\Debug\net8.0-windows\refint\TIP3.dll
+C:\Users\Artechk\source\repos\TIP3\TIP3\obj\Debug\net8.0-windows\TIP3.pdb
+C:\Users\Artechk\source\repos\TIP3\TIP3\obj\Debug\net8.0-windows\TIP3.genruntimeconfig.cache
+C:\Users\Artechk\source\repos\TIP3\TIP3\obj\Debug\net8.0-windows\ref\TIP3.dll
